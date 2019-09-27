@@ -1,0 +1,3 @@
+There are two types of error I have detected but have not fixed yet.
+- (36/5)"3 = 7.2 : After paranthesis power does not work.
+- 4.4.02 = 4.42  : It allows to add multiple decimals.
